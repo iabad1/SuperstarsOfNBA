@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SuperstarsOfNBA/static/css/main.d3023e97.css",
+    "main.js": "/SuperstarsOfNBA/static/js/main.3c88caba.js",
+    "static/js/787.cc46f58d.chunk.js": "/SuperstarsOfNBA/static/js/787.cc46f58d.chunk.js",
+    "index.html": "/SuperstarsOfNBA/index.html",
+    "main.d3023e97.css.map": "/SuperstarsOfNBA/static/css/main.d3023e97.css.map",
+    "main.3c88caba.js.map": "/SuperstarsOfNBA/static/js/main.3c88caba.js.map",
+    "787.cc46f58d.chunk.js.map": "/SuperstarsOfNBA/static/js/787.cc46f58d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3023e97.css",
+    "static/js/main.3c88caba.js"
+  ]
+}
